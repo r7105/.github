@@ -25,8 +25,8 @@ You can explore all our projects on our [GitHub repositories page](https://githu
 
 ## Dev Teams
 here are the official dev sub-orgs and short summaries of them
-[ChitterSync](https://github.com/ChitterSync) - The Best Open Sourced Dev Community ever, creating Gia Streaming, CommunityForged Intergrations, VeloSync Hosting, PreCorded, WebNerd Games and Many More things!
-[JAADE](https://github.com/JAADEtheBetterBot) - One of the most, if not best, versitile and All-in-One Discord Bot Ecosystem! (Joy Amended and Detailed Entertainment)
+- [ChitterSync](https://github.com/ChitterSync) - The Best Open Sourced Dev Community ever, creating Gia Streaming, CommunityForged Intergrations, VeloSync Hosting, PreCorded, WebNerd Games and Many More things!
+- [JAADE](https://github.com/JAADEtheBetterBot) - One of the most, if not best, versitile and All-in-One Discord Bot Ecosystem! (Joy Amended and Detailed Entertainment)
 
 ## How to Get Involved
 We are always looking for passionate collaborators! Here's how you can get involved:
